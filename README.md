@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there, I’m [Your Name]!
 
-<!--
-**cgbb25/cgbb25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor’s in Mechatronics Engineering**  
+🔧 **Specialized in** industrial maintenance, automation, and hardware/software integration
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About This Portfolio
+
+Welcome to my GitHub!  
+Here you will find a collection of projects showcasing my work across:
+
+- **Software Development** → Python, C++, automation scripts, and more
+- **CAD Design** → 2D drawings, 3D models, and assemblies
+- **PLC Programming** → Automation solutions using ladder logic, function blocks, etc.
+- **Microcontroller Projects** → Arduino, ESP32, embedded systems
+
+Each project is carefully documented with helpful files like diagrams, README notes, and explanatory texts.
+
+---
+
+### 🚀 Let’s Connect!
+
+- [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
+
+---
+
+Thanks for stopping by! 🌟
