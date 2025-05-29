@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m [Your Name]!
+# 👋 Hi there, I’m Carlos Gabriel Baltodano Beltrán!
 
 🎓 **Bachelor’s in Mechatronics Engineering**  
 🔧 **Specialized in** industrial maintenance, automation, and hardware/software integration
